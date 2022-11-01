@@ -1,0 +1,105 @@
+
+body{
+    margin:0;
+    border: 0;
+    box-sizing: border-box;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(126,2,175,1) 100%);
+    background-position: center center;
+    height: 250px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 230px;
+}
+.text{
+   text-align: center;
+    color: white;
+    padding-left: auto;
+    
+}
+ .grid-container{  
+   
+    margin-right: 40px;
+    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(350px, 1fr));  
+    justify-items: center;
+    margin-left: 30px;
+}
+.boton{
+    display: flex;
+    
+}
+.Click{
+    padding-left: 50px;
+    width: 180px;
+    height: 50px;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 80px;
+    margin-left: 160px;
+    padding-top: 15px;
+}
+.Click a{
+    
+    color: rgb(47, 0, 92);
+    text-decoration: none;
+    text-decoration: none;
+}
+.card-title{
+    text-align: center;
+    color: rgb(84, 6, 84);
+}
+
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(220, 26, 238);
+    color: white;
+    margin-top: 50px;
+}
+footer a{
+    color: white;
+    padding-top: 18px;
+  
+}
+.text{
+    text-align: center;
+    margin-top: 40px;
+}
+.text a{
+    color: white;
+    text-decoration: none;
+}
+.text a:hover{
+    color: rgb(112, 6, 210);
+}
+
+@media only screen and (max-width: 600px) {
+    .grid-container {
+      margin-left: 12px;
+      
+    }
+    p{
+        width: 320px;
+       margin-left: 33px;
+    }
+    .boton .Click{
+        margin-top: 50px;
+        margin-left: auto;
+        height: 90px;
+    }
+    .Click a{
+        padding-left: -15px;
+    }
+    .col{
+        margin-left: 5px;
+        
+    }
+    footer{
+        margin-left: 13px;
+    }
+    }

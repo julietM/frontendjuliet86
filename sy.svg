@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="sy.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 297 210"
+   height="210mm"
+   width="297mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.62046694"
+     inkscape:cx="489.95358"
+     inkscape:cy="420.65094"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient38599">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop38595" />
+      <stop
+         style="stop-color:#008000;stop-opacity:1"
+         offset="1"
+         id="stop38597" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter37627"
+       x="-0.050929652"
+       y="-0.047253202"
+       width="1.1018593"
+       height="1.0945064">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.444969"
+         id="feGaussianBlur37629" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient38599"
+       id="linearGradient38601"
+       x1="190.4933"
+       y1="107.14214"
+       x2="118.8438"
+       y2="105.84607"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter38929"
+       x="-0.4323641"
+       y="-1.0427606"
+       width="1.8647282"
+       height="3.0855211">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1799841"
+         id="feGaussianBlur38931" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#eeffaa;fill-rule:evenodd;stroke:#000000;stroke-width:0.271407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5270"
+       width="303.70074"
+       height="214.77852"
+       x="-1.428506"
+       y="-1.9523276" />
+    <text
+       xml:space="preserve"
+       style="font-size:179.987px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';mix-blend-mode:normal;fill:#000000;stroke-width:4.49968;filter:url(#filter37627)"
+       x="86.909882"
+       y="167.14734"
+       id="text29772-0"
+       transform="matrix(0.96242257,0,0,0.94857664,5.9219917,8.2620901)"><tspan
+         sodipodi:role="line"
+         id="tspan29770-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:#000000;stroke-width:4.49968"
+         x="86.909882"
+         y="167.14734">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:162.801px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';fill:url(#linearGradient38601);stroke-width:4.07003;fill-opacity:1"
+       x="92.364288"
+       y="157.42467"
+       id="text29772"
+       transform="scale(1.0034736,0.99653843)"><tspan
+         sodipodi:role="line"
+         id="tspan29770"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:url(#linearGradient38601);stroke-width:4.07003;fill-opacity:1"
+         x="92.364288"
+         y="157.42467">S</tspan></text>
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter38929)"
+       id="path38847"
+       cx="-12.785792"
+       cy="132.36136"
+       rx="8.8258505"
+       ry="3.6594987"
+       transform="rotate(-64.426507)" />
+  </g>
+</svg>

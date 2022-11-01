@@ -1,0 +1,95 @@
+body{
+    margin:0;
+    border: 0;
+    box-sizing: border-box;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(126,2,175,1) 100%);
+    background-position: center center;
+    height: 250px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.caja{
+    width: 340px;
+    height: 180px;
+    background-color: violet;
+    margin-left: 480px;
+    margin-top: 26px;
+    border-radius: 15px;
+}
+.caja  li{
+    padding-top: 15px;
+}
+.card-title{
+    text-align: center;
+   
+  
+}
+.card-title a{
+    text-decoration: none;
+    color: blueviolet;
+}
+a:hover{
+    background-color: violet;
+}
+
+.boton{
+    display: flex;
+    
+}
+.Click{
+    padding-left: 50px;
+    width: 180px;
+    height: 50px;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 80px;
+    margin-left: 160px;
+    padding-top: 15px;
+}
+.Click a{
+    
+    color: rgb(47, 0, 92);
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(220, 26, 238);
+    color: white;
+    margin-top: 50px;
+}
+footer a{
+    color: white;
+    padding-top: 18px;
+  
+}
+.text{
+    text-align: center;
+    margin-top: 40px;
+}
+.text a{
+    color: white;
+    text-decoration: none;
+}
+.text a:hover{
+    color: rgb(112, 6, 210);
+}
+@media only screen and (max-width: 600px) {
+.caja{
+    margin-left: 14px;
+}
+.boton .Click{
+    margin-top: 50px;
+    margin-left: auto;
+    height: 90px;
+}
+.Click a{
+    padding-left: 5px;
+}
+
+}

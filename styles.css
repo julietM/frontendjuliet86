@@ -1,0 +1,95 @@
+body{
+    margin:0;
+    border: 0;
+    box-sizing: border-box;
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(126,2,175,1) 100%);
+    background-position: center center;
+    height: 250px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    display: block;
+    margin-top: 150px;
+    margin-right: auto;
+
+}
+.imganes{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 280px;
+   height: 280px;
+   justify-content: center;
+}
+.texto{
+    width: 400px;
+    height: 270px;
+    background-color: rebeccapurple;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    border-radius: 13px;
+    box-shadow: 12px 10px 17px 7px rgb(0, 0, 0);
+    
+}
+p{
+    width: 380px;
+    text-align: left;
+    color: white;
+    padding-top: 10px;
+    padding-left: 18px;
+}
+.clik  {
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    border-radius: 50px;
+   
+}
+.clik a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding-left: 40px;
+    margin-top: 75px;
+    font-size: 30px;
+ 
+}
+
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(220, 26, 238);
+    color: white;
+    margin-top: 90px;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+footer a:hover{
+    color: rgb(44, 0, 86);
+}
+
+.container {
+    color: white;
+    margin-top: 40px;
+    justify-content: flex-end;
+}
+.container a{
+    text-decoration: none;
+    color: #33006F;
+    font-size: 25px;
+}
+.container img:hover{
+    border-radius: 17px;
+    transform: scale(1.1, 1.1);
+    transition: all 3s;
+}
+
